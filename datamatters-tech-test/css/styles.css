@@ -622,6 +622,13 @@ input[type='checkbox'] {
 
 .navbar-custom .navbar-brand.logo-image img {
 	widths: 150px
+	display: block;
+    	text-indent: -10em;
+    	width: 130px;
+    	height: 30px;
+    	background: url(https://www.coversure.co.uk/assets/img/logo.svg);
+    	background-size: 130px 30px;
+}
 }
 
 .navbar-custom .navbar-brand.logo-text {
